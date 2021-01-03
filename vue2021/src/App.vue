@@ -1,12 +1,24 @@
 <template>
-<!-- <section>
-  <ul class="headerSection">
+<section>
+  
+  <!-- <ul class="flex justify-between items-center border-b-2 border-gray-100 py-6 md:justify-starts md:space-x-10 w-4 h-2">
+<img src="./assets/DAM.png" alt="">
+  </ul> -->
+  <div>
+    <a href="#">
+    <img class="h-8 w-auto sm:h-10" src="./assets/DAM.png" alt="">
+    </a>
+  </div>
+<div>
+  <ul class="flex justify-between items-center border-b-2 border-gray-100 py-6 md:justify-end md:space-x-10">
+    <li class="flex items-center border-b-2 border-gray-100 py-6 md:justify-end md:space-x-10 w-20 h-18"><img src="./assets/DAM.png" alt=""></li>
     <li>Home</li>
     <li>About Us</li>
     <li>FAQ</li>
     <li>Contact Us</li>
   </ul>
-</section> -->
+  </div>
+</section>
 
 <!-- This example requires Tailwind CSS v2.0+ -->
 <div class="relative bg-white">
@@ -427,6 +439,15 @@
 
 <h1>First Commit in Vue 2021</h1>
 
+<div class="bg-blue-100 w-5 h-6">Box1</div>
+<div class="bg-blue-200 w-5 h-6">Box2</div>
+<div class="bg-blue-300 w-5 h-6">Box3</div>
+<div class="bg-blue-400 w-5 h-6">Box4</div>
+<div class="bg-blue-500 w-5 h-6">Box5</div>
+<div class="bg-blue-600 w-5 h-6">Box6</div>
+<div class="bg-blue-700 w-5 h-6">Box7</div>
+<div class="bg-blue-700 w-5 h-6">Box8</div>
+<div class="bg-blue-900 w-5 h-6">Box9</div>
 
 </template>
 
