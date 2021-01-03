@@ -8,10 +8,10 @@
     <a href="#">
     <img class="h-8 w-auto sm:h-10" src="./assets/DAM.png" alt="">
     </a>
-  </div>
-<div>
+  <!-- </div>
+<div> -->
   <ul class="flex justify-between items-center border-b-2 border-gray-100 py-6 md:justify-end md:space-x-10">
-    <li class="flex items-center border-b-2 border-gray-100 py-6 md:justify-end md:space-x-10 w-20 h-18"><img src="./assets/DAM.png" alt=""></li>
+    <!-- <li class="flex items-center border-b-2 border-gray-100 py-6 md:justify-start md:space-x-10 w-20 h-18"><img src="./assets/DAM.png" alt=""></li> -->
     <li>Home</li>
     <li>About Us</li>
     <li>FAQ</li>
@@ -26,9 +26,8 @@
     <div class="flex justify-between items-center border-b-2 border-gray-100 py-6 md:justify-start md:space-x-10">
       <div class="flex justify-start lg:w-0 lg:flex-1">
         <a href="#">
-          <span class="sr-only">Workflow</span>
-          <img class="h-8 w-auto sm:h-10" src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg" alt="">
-        </a>
+    <img class="h-8 w-auto sm:h-10" src="./assets/DAM.png" alt="">
+    </a>
       </div>
       <div class="-mr-2 -my-2 md:hidden">
         <button type="button" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
