@@ -6,7 +6,7 @@
   </ul> -->
   <div>
     <a href="#">
-    <img class="h-8 w-auto sm:h-10" src="./assets/DAM.png" alt="Logo">
+    <img class="h-8 w-auto sm:h-10" src="./assets/DAM.png" alt="Header Logo Image">
     </a>
   <!-- </div>
 <div> -->
